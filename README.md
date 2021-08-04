@@ -1,3 +1,3 @@
-# steps to run code
+# Follow below steps
 # npm install
 # npm start
