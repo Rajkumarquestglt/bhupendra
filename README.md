@@ -1,1 +1,3 @@
-# bhupendra
+# steps to run code
+# npm install
+#npm start
